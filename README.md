@@ -23,7 +23,7 @@ Foi feita a automação de dois casos de teste:
 # Melhorias
 Este projeto foi feito como um MVP para mostrar conhecimentos de automação. As melhorias por mim apontadas são:
 - Aumento do número de casos de teste;
-- Incluão de contexto;
+- Inclusão de contexto;
 - Melhoria em código Java (ex: tornar a pasta do chromedrive genérica);
 - Inclusao da captura screenshots;
 
